@@ -5,12 +5,13 @@ A demo python pkg
 ## Installation
 
 ```bash
+#just kidding, this isn't installable via pip
 $ pip install demo_py_pkg
 ```
 
 ## Usage
 
-- TODO
+This isn't really a package you'll use -- it's just for demo
 
 ## Contributing
 
